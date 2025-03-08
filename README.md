@@ -67,11 +67,6 @@ As this is an educational project, contributions are welcome! If you have sugges
 
 ---
 
-## License
-This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
 ## Acknowledgments
 - Data sourced from open Internet resources.
 - Google Charts for data visualization.
